@@ -1,0 +1,16 @@
+{
+  "notifications": {
+    "title": {
+      "text": "Notifications",
+      "style": {
+        "class": "col hp-flex-none w-auto h5 hp-text-color-black-100 hp-text-color-dark-10 hp-text-color-dark-0 me-64 mb-0"
+      }
+    },
+    "badge": {
+      "text": "4 New",
+      "style": {
+        "class": "col hp-flex-none w-auto hp-badge-text fw-medium hp-text-color-black-80 me-12 px-0"
+      }
+    }
+  }
+}
